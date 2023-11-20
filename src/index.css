@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+table{
+  border-collapse: collapse;
+}
+th{
+  background-color: rgb(202, 185, 35);
+}
+th,td{
+  border: 1px solid #080808;
+  padding: 8px;
+}
+
+
+
+.msg-change{
+  background-color: aqua;
+  padding: 20px;
+  margin-bottom: 12px;
+}
+
+
+
+
+.count{
+  background-color: rgb(110, 226, 43);
+  padding: 20px;
+  margin-bottom: 12px;
+}
+
+
+
+.card-sec{
+  margin-top: 30px;
+}
+.card-container{
+  width: 90%;
+  margin: 0 auto;
+}
+.card-row{
+  display: flex;
+  flex-wrap: wrap;
+}
+.card-col{
+  width: 30%;
+  text-align: left;
+  padding: 12px;
+}
+.card{
+  box-shadow: 0 0 10px gray;
+  padding: 10px;
+  height: 45vh;
+ 
+}
+.card h1{
+  color: #009688;
+    font-family: cursive;
+    text-align: center;
+}
+.card h3{
+  color: brown;
+}
+.card h4{
+  color: brown;
+}
+.card p{
+  color: #9C27B0;
+    font-weight: 500;
+   
+
+}
+
+
+
+
+
+
